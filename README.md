@@ -10,7 +10,7 @@ A mod that will allow you to say OOC Words like LOL, LMAO, XD without [/b] or an
 - Just type the OOC Words like a normal chat without any [/]
 
 # Preview:
-[img]https://i.imgur.com/JOgNhxV.gif[/img]
+![](https://i.imgur.com/JOgNhxV.gif)
 
 # Requirments:
 - Download Moonloader and Sampfuncs latest version
